@@ -49,14 +49,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 📂 Featured open-source work
-
-- **[DetectMe](https://github.com/oiseaubleuc/DetectMe)** — OSINT tool for macOS/iOS: username lookup across 25+ platforms for security research *(Python)*
-- **[Carsalesbyhoho](https://github.com/oiseaubleuc/Carsalesbyhoho)** — Car-sales management desktop app, MVVM + EF Core *(C# · WPF)*
-- **[twiclonee](https://github.com/oiseaubleuc/twiclonee)** — Twitter-like web app with replies, likes, profiles & dark mode *(Laravel)*
-- **[Law-Emergency-project](https://github.com/oiseaubleuc/Law-Emergency-project)** — Premium, security-minded website for a law firm *(Laravel)*
-- **[cryptoInvest](https://github.com/oiseaubleuc/cryptoInvest)** — Crypto tracking platform *(Angular · TypeScript)*
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 <p align="center"><i>Always happy to talk about web platforms, enterprise software and AI — feel free to reach out.</i></p>
