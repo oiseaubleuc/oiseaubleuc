@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hoho 👋</h1>
+<p align="center">
+  <b>Software Engineer based in Belgium</b> · Full-stack web, enterprise apps & AI<br/>
+  I build scalable products end-to-end — from database to deployment.
+</p>
 
-<!--
-**oiseaubleuc/oiseaubleuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://legalhelp.be"><img src="https://img.shields.io/badge/LegalHelp-live-0A66C2?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/Languages-FR%20%7C%20NL%20%7C%20EN-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-collaborations-2ea44f?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently building
+
+| Project | What it is | Stack |
+|---|---|---|
+| **LegalHelp** | Multilingual legal-help platform for Belgium (FR / NL / EN) — [legalhelp.be](https://legalhelp.be) | Next.js · TypeScript · Vercel |
+| **TRANSTEMP** | B2B medical transport platform for Belgian healthcare providers | TypeScript |
+| **HohoSolutions CRM** | Bilingual CRM for Belgian agencies | Next.js · Supabase |
+| **Humaniterre** | Web platform for a humanitarian project | TypeScript |
+
+### 🛠️ Tech stack
+
+**Languages** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend** &nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Data & Cloud** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 📂 Featured open-source work
+
+- **[DetectMe](https://github.com/oiseaubleuc/DetectMe)** — OSINT tool for macOS/iOS: username lookup across 25+ platforms for security research *(Python)*
+- **[Carsalesbyhoho](https://github.com/oiseaubleuc/Carsalesbyhoho)** — Car-sales management desktop app, MVVM + EF Core *(C# · WPF)*
+- **[twiclonee](https://github.com/oiseaubleuc/twiclonee)** — Twitter-like web app with replies, likes, profiles & dark mode *(Laravel)*
+- **[Law-Emergency-project](https://github.com/oiseaubleuc/Law-Emergency-project)** — Premium, security-minded website for a law firm *(Laravel)*
+- **[cryptoInvest](https://github.com/oiseaubleuc/cryptoInvest)** — Crypto tracking platform *(Angular · TypeScript)*
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oiseaubleuc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiseaubleuc&layout=compact&hide_border=true" height="160" />
+</p>
+
+---
+<p align="center"><i>Always happy to talk about web platforms, enterprise software and AI — feel free to reach out.</i></p>
