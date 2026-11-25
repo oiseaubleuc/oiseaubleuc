@@ -58,12 +58,5 @@
 - **[Law-Emergency-project](https://github.com/oiseaubleuc/Law-Emergency-project)** — Premium, security-minded website for a law firm *(Laravel)*
 - **[cryptoInvest](https://github.com/oiseaubleuc/cryptoInvest)** — Crypto tracking platform *(Angular · TypeScript)*
 
-### 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oiseaubleuc&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiseaubleuc&layout=compact&hide_border=true" height="160" />
-</p>
-
 ---
 <p align="center"><i>Always happy to talk about web platforms, enterprise software and AI — feel free to reach out.</i></p>
