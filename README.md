@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hoho 👋</h1>
+<h1 align="center">Hi, I'm Hoho</h1>
 <p align="center">
   <b>Software Engineer based in Belgium</b> · Full-stack web, enterprise apps & AI<br/>
   I build scalable products end-to-end — from database to deployment.
@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Currently building
+### Currently building
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -21,7 +21,7 @@
 | **HohoSolutions CRM** | Bilingual CRM for Belgian agencies | Next.js · Supabase |
 | **Humaniterre** | Web platform for a humanitarian project | TypeScript |
 
-### 🛠️ Tech stack
+### Tech stack
 
 **Languages** &nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
